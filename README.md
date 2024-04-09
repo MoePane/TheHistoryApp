@@ -68,6 +68,10 @@ To make the user interface neater, if possible, the app will have most features 
 
 <p>This is the app executing the match, no match and erros respectively</p>
 
+![Match](https://github.com/MoePane/TheHistoryApp/assets/161456812/aff14fdb-9be0-49e9-b3ea-691b6f6658c3)
+![app no match](https://github.com/MoePane/TheHistoryApp/assets/161456812/560892c5-6f88-4d70-95b1-e730a899fc06)
+![app input error](https://github.com/MoePane/TheHistoryApp/assets/161456812/36642778-03df-4469-b3e7-1799797344eb)
+
 ## 🎈 Usage <a name="usage"></a>
 <P>the user simply needs to input their age in the specified line, and press the 'Search' button to find the person they match with.</P>
 
