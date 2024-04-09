@@ -64,7 +64,18 @@ To make the user interface neater, if possible, the app will have most features 
 <h3>GithubActions</h3>
 <p>Using the 'Actions' option, it is possible to run build and test actions to view the overall functiuonality of the app.</p><br>
 
+![Running Local test](https://github.com/MoePane/TheHistoryApp/assets/161456812/b5b05abf-2d5c-44fa-a250-e2677da40b39) <br>
 
+![Android Test](https://github.com/MoePane/TheHistoryApp/assets/161456812/de5b983a-ba30-4cbf-92f4-a140ebad3b68) <br>
+
+![Build](https://github.com/MoePane/TheHistoryApp/assets/161456812/f182a5f0-857c-4eb8-af14-e7f51c504235)<br>
+
+![Building APK](https://github.com/MoePane/TheHistoryApp/assets/161456812/40e0abfc-c745-42ce-835a-e274e9e9a4cd) <br>
+
+
+
+## 🎈 Usage <a name="usage"></a>
+<P>the user simply needs to input their age in the specified line, and press the 'Search' button to find the person they match with.</P>
 
 <p>This is the app when opened below:</p>
 
@@ -72,15 +83,14 @@ To make the user interface neater, if possible, the app will have most features 
 
 <p>This is the app executing the match, no match and erros respectively</p>
 
-![Match](https://github.com/MoePane/TheHistoryApp/assets/161456812/aff14fdb-9be0-49e9-b3ea-691b6f6658c3)
-![app no match](https://github.com/MoePane/TheHistoryApp/assets/161456812/560892c5-6f88-4d70-95b1-e730a899fc06)
-![app input error](https://github.com/MoePane/TheHistoryApp/assets/161456812/36642778-03df-4469-b3e7-1799797344eb)
-
-## 🎈 Usage <a name="usage"></a>
-<P>the user simply needs to input their age in the specified line, and press the 'Search' button to find the person they match with.</P>
-
-
+![Match](https://github.com/MoePane/TheHistoryApp/assets/161456812/aff14fdb-9be0-49e9-b3ea-691b6f6658c3)<br>
+![app no match](https://github.com/MoePane/TheHistoryApp/assets/161456812/560892c5-6f88-4d70-95b1-e730a899fc06)<br>
+![app input error](https://github.com/MoePane/TheHistoryApp/assets/161456812/36642778-03df-4469-b3e7-1799797344eb)<br>
 
 ## 🎉 References <a name = "references"></a>
 
-- References
+- References:
+  <p>W3Schools, 2024. Kotlin, 30 March 2024. [Online]. Available at:https://www.w3schools.com/ [Accessed 30 March 2024].</p>
+      
+      
+
