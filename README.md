@@ -12,7 +12,7 @@
 - [Design Considerations](#design_considerations)
 - [Github](#github)
 - [Usage](#usage)
-- [Acknowledgments](#acknowledgement)
+- [References](#references)
 
 ## 🧐 About <a name = "about"></a>
 The main purpose of the app was to allow any users to input their ages and retrieve some information of which famous historical figure they share their ages with.
@@ -63,16 +63,11 @@ To make the user interface neater, if possible, the app will have most features 
 <p>Using the 'Actions' option, it is possible to run build and test actions to view the overall functiuonality of the app.</p><br>
 
 
-
 ## 🎈 Usage <a name="usage"></a>
 <P>the user simply needs to input their age in the specified line, and press the 'Search' button to find the person they match with.</P>
 
 
 
+## 🎉 References <a name = "references"></a>
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
 - References
