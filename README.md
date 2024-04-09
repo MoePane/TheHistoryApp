@@ -64,6 +64,8 @@ To make the user interface neater, if possible, the app will have most features 
 <h3>GithubActions</h3>
 <p>Using the 'Actions' option, it is possible to run build and test actions to view the overall functiuonality of the app.</p><br>
 
+
+
 <p>This is the app when opened below:</p>
 
 ![app boot up](https://github.com/MoePane/TheHistoryApp/assets/161456812/a5cde71f-bba3-4b55-ad68-db33895af775) <br>
