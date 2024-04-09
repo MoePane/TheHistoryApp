@@ -65,7 +65,7 @@ To make the user interface neater, if possible, the app will have most features 
 
 ## 🎈 Usage <a name="usage"></a>
 <P>the user simply needs to input their age in the specified line, and press the 'Search' button to find the person they match with.</P>
-![app boot up](https://github.com/MoePane/TheHistoryApp/assets/161456812/a5cde71f-bba3-4b55-ad68-db33895af775)
+
 
 
 ## 🎉 References <a name = "references"></a>
