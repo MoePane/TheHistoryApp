@@ -10,9 +10,8 @@
 ## 📝 Table of Contents
 - [About](#about)
 - [Design Considerations](#design_considerations)
-- [Deployment](#deployment)
+- [Github](#github)
 - [Usage](#usage)
-- [Built Using](#built_using)
 - [TODO](../TODO.md)
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
@@ -46,42 +45,27 @@ Adding white space helps create a well-structured design that is attractive to t
 To make the user interface neater, you may swap the names of features for icons. This option has both good and bad sides, as you can end up confusing users if you decide on unfamiliar icons. Among the best app design practices is the use of icons that are well-known and familiar to users.</p> <br><br>
 
 
-
-
-
-
 ### Prerequisites
 <p>The folliwing inludes the list of resource used during the development of the app:</p><br>
 <p>. Android Studio Projects</p><br>
 <p>. Bluestax Emulator</p><br>
 <p>. Github</p><br>
 
-<p>Android Studio Project:</p><br>
+<p>Android Studio Project:</p>
 <p>This will serve as the platform to develop the app, from designing the layouts and elements to initialising the code that will exececute the functions.</p><br><br>
 
-<p>Bluestax Emulator:</p><br>
-<p>This the tool that allow </p>
+<p>Bluestax Emulator:</p>
+<p>This is the tool that allows Android Studio to run the code on a simulated phone.</p>
+
+<p>Github</p>
+<p>This will be used to store the code and run actiosn to build and test the app.</p><br><br>
 
 
-### Installing
-A step by step series of examples that tell you how to get a development env running.
+## 🔧 Github <a name = "github"></a>
+<p>Once the project has been developed it will be pushed into the github repositry whereby the app can undergo some changes, such as adding some new code, adding a readme file and conducting actions.</p>
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
+<h3>Repositories</h3>
+<p>This is the initial area where the files containin the source code and other necessary files for the app.</p>
 
 ### Break down into end to end tests
 Explain what these tests test and why
@@ -100,14 +84,7 @@ Give an example
 ## 🎈 Usage <a name="usage"></a>
 Add notes about how to use the system.
 
-## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
 
-## ⛏️ Built Using <a name = "built_using"></a>
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
