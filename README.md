@@ -58,6 +58,8 @@ To make the user interface neater, if possible, the app will have most features 
 <h3>Repositories</h3>
 <p>This is the initial area where the files containin the source code and other necessary files for the app.</p>
 
+![Repository](https://github.com/MoePane/TheHistoryApp/assets/161456812/28956763-0a99-484d-9211-ffb9f9bfe749) 
+
 
 <h3>GithubActions</h3>
 <p>Using the 'Actions' option, it is possible to run build and test actions to view the overall functiuonality of the app.</p><br>
