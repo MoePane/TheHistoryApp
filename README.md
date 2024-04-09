@@ -12,37 +12,28 @@
 - [Design Considerations](#design_considerations)
 - [Github](#github)
 - [Usage](#usage)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
 The main purpose of the app was to allow any users to input their ages and retrieve some information of which famous historical figure they share their ages with.
 
 ## 🏁 Design Considerstions <a name = "design_considerations"></a>
-<p>1. Design for Everyone</p> <br>
-Accessibility forms the basis for best app design practices. You need to design for everyone and foresee all the possible use cases in your design. Users can hold a smartphone in the left or right hand, or even with both hands. <br><br>
 
-<p>2. Place One Action per Screen </p> <br>
-<p>The smartphone screen is small compared to the desktop, which creates many difficulties for UX designers. Add a few additional items on the screen, and suddenly users feel overwhelmed.
-The best decision is to divide the process into simple actions and dedicate a screen to each one of them. 
-The best app designs provide a clean layout with the most important interface elements visible and accessible no matter how users hold their smartphones.
-Be very careful about placing buttons and other elements in the lower corners and at the top of the screen. These places are the hardest to reach, creating a lot of difficulties for users.</p><br><br>
+<p>1. Place One Action per Screen </p>
+<p>The smartphone screen is small compared to the desktop, hence it is the best to divide the process into simple actions and dedicate a screen to each one of them. A clean layout with the most important interface elements visible and accessible for the history app.</p><br>
 
-<p>3. Create Tappable Buttons </p><br>
-<p>Tapping a button and missing it is among the most frustrating things that happen when using an app. Touch controls that are too small make it impossible for users to interact with an app. UX designers might be tempted to save space and make the buttons smaller. However, it will result in harming the user experience. </p><br><br>
+<p>2. Create Tappable Buttons</p>
+<p>Touch controls should not be too small and should allow for easily interaction whith the app.</p><br>
 
-<p>4. Create a Clean & Uncluttered Design</p><br> 
-<p>pacing and paddings should be at the center of your design. Staffing all the elements on a single screen is a sure way to failure. A cluttered design is one of the reasons why users abandon an app.
-Adding white space helps create a well-structured design that is attractive to the eye. Thus, you will help users concentrate on what you want them to focus on while avoiding distractions.</p><br><br>
+<p>3. Create a Clean & Uncluttered Design</p>
+<p> Simplyfying all the elements to ensure good design when said elements are situated on a single screen.</p><br><br>
 
-<p>5. Minimize Required Data Input</p> <br>
-<p>Some apps, like e-commerce applications, require a lot of data input. Filling out a form with multiple fields is no big deal on a computer; it’s entirely different when it comes to mobile devices.</p><br><br>
+<p>4. Minimize Required Data Input</p>
+<p> The user will only input their ages. App's data input will only require 1 form of data input.</p><br><br>
 
-<p>6. Make a User-Friendly Tab Bar</p><br>
-<p>The tab bar is a key part of every application. They serve several purposes, such as keeping all the information in front of users while not overstaffing the screen with elements.
-To make the user interface neater, you may swap the names of features for icons. This option has both good and bad sides, as you can end up confusing users if you decide on unfamiliar icons. Among the best app design practices is the use of icons that are well-known and familiar to users.</p> <br><br>
+<p>5. Make a User-Friendly Tab Bar</p>
+<p>The tab bar is a key part of the application. When applicable, ensure all the informtion is infront of the users and avoid overstaffing the screen with elements.
+To make the user interface neater, if possible, the app will have most features with names and a icon.</p> <br><br>
 
 
 ### Prerequisites
@@ -67,27 +58,17 @@ To make the user interface neater, you may swap the names of features for icons.
 <h3>Repositories</h3>
 <p>This is the initial area where the files containin the source code and other necessary files for the app.</p>
 
-### Break down into end to end tests
-Explain what these tests test and why
 
-```
-Give an example
-```
+<h3>GithubActions</h3>
+<p>Using the 'Actions' option, it is possible to run build and test actions to view the overall functiuonality of the app.</p><br>
 
-### And coding style tests
-Explain what these tests test and why
 
-```
-Give an example
-```
 
 ## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+<P>the user simply needs to input their age in the specified line, and press the 'Search' button to find the person they match with.</P>
 
 
 
-## ✍️ Authors <a name = "authors"></a>
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
